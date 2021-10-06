@@ -1,4 +1,4 @@
 # hello-world
 Hi,
 
-My name is Kaissar and I am beginner at software development
+My name is Kaissar and I am a beginner at software development
